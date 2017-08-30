@@ -1,0 +1,10 @@
+main: ch.mrwallah.ttt.main.Main
+version: 0.1
+author: MrWallah
+name: TTT
+
+commands:
+     ttt:
+     start:
+     forcemap:
+     shop:
